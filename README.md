@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Orell
 - 📫 You can reach me at [orell.buehler@ateleris.ch](mailto:orell.buehler@ateleris.ch)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OrellBuehler)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak.orellbuehler.dev?user=OrellBuehler&theme=github-dark-dimmed&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!---
 OrellBuehler/OrellBuehler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
