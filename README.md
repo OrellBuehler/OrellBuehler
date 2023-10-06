@@ -11,3 +11,5 @@ You can click the Preview link to take a look at your changes.
 - Stats:
 
 ![](https://komarev.com/ghpvc/?username=OrellBuehler)
+
+[![An image of @orellbuehler's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/orellbuehler)](https://holopin.io/@orellbuehler)
