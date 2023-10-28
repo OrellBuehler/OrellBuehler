@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Orell
-- 📫 You can reach me at [orell.buehler@ateleris.ch](mailto:orell.buehler@ateleris.ch)
+- 📫 You can reach me at [orell@orellbuehler.dev](mailto:orell@orellbuehler.dev)
 - Stats:
 
 ![](https://komarev.com/ghpvc/?username=OrellBuehler)
